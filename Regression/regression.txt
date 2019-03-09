@@ -1,4 +1,4 @@
-Table of Contents
+          Table of Contents
 What is Regression Analysis?
 Why do we use Regression Analysis?
 What are the types of Regressions?
@@ -23,9 +23,12 @@ As mentioned above, regression analysis estimates the relationship between two o
 Let’s say, you want to estimate growth in sales of a company based on current economic conditions. You have the recent company data which indicates that the growth in sales is around two and a half times the growth in the economy. Using this insight, we can predict future sales of the company based on current & past information.
 
 There are multiple benefits of using regression analysis. They are as follows:
--> It indicates the significant relationships between dependent variable and independent variable.
--> It indicates the strength of impact of multiple independent variables on a dependent variable.
--> Regression analysis also allows us to compare the effects of variables measured on different scales, such as the effect of price changes and the number of promotional activities. These benefits help market researchers / data analysts / data scientists to eliminate and evaluate the best set of variables to be used for building predictive models.
+  -> It indicates the significant relationships between dependent variable and independent variable.
+  -> It indicates the strength of impact of multiple independent variables on a dependent variable.
+  -> Regression analysis also allows us to compare the effects of variables measured on different scales, such as the effect of price
+changes and the number of promotional activities. These benefits help market researchers / data analysts / data scientists to eliminate and evaluate the best set of variables to be used for building predictive models.
+
+
 
 What are the types of regression?
 There are various kinds of regression techniques available to make predictions. These techniques are mostly driven by three metrics (number of independent variables, type of dependent variables and shape of regression line).
