@@ -1,0 +1,38 @@
+Table of Contents
+What is Regression Analysis?
+Why do we use Regression Analysis?
+What are the types of Regressions?
+Linear Regression
+Logistic Regression
+Polynomial Regression
+Stepwise Regression
+Ridge Regression
+Lasso Regression
+ElasticNet Regression
+How to select the right Regression Model?
+
+
+What is Regression Analysis?
+Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent (target) and independent variable (s) (predictor). This technique is used for forecasting, time series modelling and finding the causal effect relationship between the variables. For example, relationship between rash driving and number of road accidents by a driver is best studied through regression.
+
+Regression analysis is an important tool for modelling and analyzing data. Here, we fit a curve / line to the data points, in such a manner that the differences between the distances of data points from the curve or line is minimized.
+
+Why do we use Regression Analysis?
+As mentioned above, regression analysis estimates the relationship between two or more variables. Let’s understand this with an easy example:
+
+Let’s say, you want to estimate growth in sales of a company based on current economic conditions. You have the recent company data which indicates that the growth in sales is around two and a half times the growth in the economy. Using this insight, we can predict future sales of the company based on current & past information.
+
+There are multiple benefits of using regression analysis. They are as follows:
+-> It indicates the significant relationships between dependent variable and independent variable.
+-> It indicates the strength of impact of multiple independent variables on a dependent variable.
+-> Regression analysis also allows us to compare the effects of variables measured on different scales, such as the effect of price changes and the number of promotional activities. These benefits help market researchers / data analysts / data scientists to eliminate and evaluate the best set of variables to be used for building predictive models.
+
+What are the types of regression?
+There are various kinds of regression techniques available to make predictions. These techniques are mostly driven by three metrics (number of independent variables, type of dependent variables and shape of regression line).
+
+1. Linear Regression
+It is one of the most widely known modeling technique. Linear regression is usually among the first few topics which people pick while learning predictive modeling. In this technique, the dependent variable is continuous, independent variable(s) can be continuous or discrete, and nature of regression line is linear.
+
+Linear Regression establishes a relationship between dependent variable (Y) and one or more independent variables (X) using a best fit straight line (also known as regression line).
+
+It is represented by an equation Y=a+b*X + e, where a is intercept, b is slope of the line and e is error term. This equation can be used to predict the value of target variable based on given predictor variable(s).
